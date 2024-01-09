@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Tc2 Ruuning]]>
+    </line>
+    <line>
+      <![CDATA[Tc2 testing]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-01-09T11:50:47 IST" name="Default suite" finished-at="2024-01-09T11:50:47 IST" duration-ms="70">
+    <groups>
+    </groups>
+    <test started-at="2024-01-09T11:50:47 IST" name="Default test" finished-at="2024-01-09T11:50:47 IST" duration-ms="70">
+      <class name="test.Tc2">
+        <test-method signature="tc2()[pri:0, instance:test.Tc2@17497425]" started-at="2024-01-09T11:50:47 IST" name="tc2" finished-at="2024-01-09T11:50:47 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Tc2 Ruuning]]>
+            </line>
+            <line>
+              <![CDATA[Tc2 testing]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+      </class> <!-- test.Tc2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
