@@ -12,6 +12,7 @@ public class Tc2 {
 	{
 		Reporter.log("Tc2 Ruuning",true);
 		Reporter.log("Tc2 testing",true);
+		Reporter.log("Tc2 testing",true);
 		
 	}
 
